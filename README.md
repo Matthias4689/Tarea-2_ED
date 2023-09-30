@@ -53,7 +53,7 @@ Esta tarea consiste en la creación de una aplicación de gestión de informaci�
 ### Problemas conocidos:
 
 - Algunas operaciones pueden tener problemas si se ingresan datos incorrectos o si se intenta realizar una acción inválida. Se recomienda seguir las instrucciones y restricciones proporcionadas en las funciones para evitar problemas. Aún estamos investigando algunas posibles soluciones.
-- ....................
+- Mapa puntoInteres_Tipo no utilizado
 
 ### A mejorar:
 
@@ -62,17 +62,16 @@ Esta tarea consiste en la creación de una aplicación de gestión de informaci�
 - Agregar la opcion de comentarios y calificaciones de los lugares de interés, para crear una lista con los 10 mejores de mayor a menor.
 
 ## Contribuciones
- [Puntaje asignado entre 0 y 3] (0=Aporte insuficiente, 1=Aporte satisfactorio, 2=Aporte bueno, 3=Aporte excelente).
 
 ### Javier Donetch:
 
-- Desarrolló las funciones ....
+- Desarrolló las funciones 
 - Diseño inicial de la interfaz de usuario.
-- **Auto-evaluación**: 
+- **Auto-evaluación**: 3 (Aporte excelente)
 
 ### Matias Romero:
 
-- Implementó la función de eliminar tareas.
+- Desarrollo las funciones de 
 - Documentación y comentarios en el código.
 - Diseño y redacción del README.
 - **Auto-evaluación**: 
