@@ -216,8 +216,7 @@ void mostrarPuntosDeInteresPorTipo(HashMap *puntoInteres_nombre, const char tipo
     }
 }
 
-// Esta función toma una cadena CSV (tmp) y un índice de campo (k) y devuelve el campo 
-// correspondiente como un puntero constante a caracteres.
+
 const char *get_csv_field (char * tmp, int k) {
     int open_mark = 0;
     char* ret=(char*) malloc (100*sizeof(char));
