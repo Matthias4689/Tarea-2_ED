@@ -58,9 +58,11 @@ Esta tarea consiste en la creación de una aplicación de gestión de informaci�
 
 ### A mejorar:
 
+- Solucionar problemas conocidos
 - Ordenar automáticamente la lista de lugares turísticos por nombre o tipo.
 - Permitir la edición de información de lugares turísticos existentes.
 - Agregar la opcion de comentarios y calificaciones de los lugares de interés, para crear una lista con los 10 mejores de mayor a menor.
+
 
 ## Contribuciones
 
