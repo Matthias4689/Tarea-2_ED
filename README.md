@@ -89,7 +89,7 @@ Esta tarea consiste en la creación de una aplicación de gestión de informaci�
   - exportarPuntosDeInteresACSV
   - exportarTuristasACSV
   
-- Documentación, depuración y comentarios en el código.
+- Documentación y depuración en el código.
   
 - Diseño y redacción del README.
   
